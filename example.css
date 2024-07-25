@@ -1,0 +1,337 @@
+
+
+.container {
+    flex-direction: column;
+    display: flex;
+
+    justify-content: center;
+    gap: 20px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    font-size: xx-large;
+    color: rgb(119, 71, 163);
+    border: 2px solid #000;
+    padding: 10px;
+    
+}
+.item2{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+
+.item{
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    border-radius: 10px;
+}
+.oneCon{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.section2{
+    display: flex;
+    justify-content: center;
+}
+.section1{
+    padding: 3px;
+}
+.redt{
+    background-color: rgb(130, 160, 237);
+}
+.blue{
+    background-color: rgb(75, 75, 235);
+}
+.blue2{
+    background-color: blueviolet;
+}
+.blue3{
+    background-color: blueviolet;
+}
+.blue4{
+ 
+   background-color: blueviolet;
+}
+.blue5{
+    background-color: blueviolet;
+}
+.blue6{
+    background-color: blueviolet;
+}
+.ash{
+    background-color: rgb(107, 230, 230);
+}
+.ash2{
+    background-color: rgb(92, 245, 245);
+}
+.ash3{
+    background-color: rgb(92, 245, 245);
+}
+.ash4{
+    background-color: rgb(92, 245, 245);
+}
+.ash5{
+    background-color: rgb(92, 245, 245);
+}
+.ash6{
+    background-color: rgb(92, 245, 245);
+}
+.red{
+    background-color:rgb(233, 56, 56);
+}
+.red2{
+    background-color:rgb(233, 56, 56);
+}
+.red3{
+    background-color:rgb(101, 96, 96);
+}
+.red4{
+    background-color:rgb(101, 96, 96);
+}
+.red22{
+    background-color: red;
+}
+.red23{
+    background-color: red;
+}
+.red24{
+    background-color: red;
+}
+.red25{
+    background-color: red;
+}
+.red26{
+    background-color: red;
+}
+.red27{
+    background-color: red;
+}
+.red28{
+    background-color: red;
+}
+.red29{
+    background-color: red;
+}
+.red30{
+    background-color: red;
+}
+.red40{
+    background-color: red;
+}
+.red41{
+    background-color: red;
+}
+.red42{
+    background-color: red;
+}
+.red43{
+    background-color: red;
+}
+.red44{
+    background-color: red;
+}
+.red45{
+    background-color: red;
+}
+.red46{
+    background-color: red;
+}
+.red47{
+    background-color: red;
+}
+.red48{
+    background-color: red;
+}
+.red72{
+    background-color: red;
+}
+.red73{
+    background-color: red;
+}
+.red74{
+    background-color: red;
+}
+.red75{
+    background-color: red;
+}
+.red76{
+    background-color: red;
+}
+.red77{
+    background-color: red;
+}
+.red78{
+    background-color: red;
+}
+.red79{
+    background-color: red;
+}
+.red80{
+    background-color: red;
+}
+.red104{
+    background-color: red;
+}
+.red105{
+    background-color: red;
+}
+.red106{
+    background-color: red;
+}
+.red107{
+    background-color: red;
+}
+.red108{
+    background-color: red;
+}
+.red109{
+    background-color: red;
+}
+.red110{
+    background-color: red;
+}
+.red111{
+    background-color: red;
+}
+.red112{
+    background-color: red;
+}
+.yellow5{
+    background-color: yellow;
+}
+.red13{
+    background-color: red;
+}
+.red31{
+    background-color: red;
+}
+.red49{
+    background-color: red;
+}
+.red81{
+    background-color: red;
+}
+.red{
+    background-color: red;
+}
+.nh113{
+    background-color: rgb(139, 126, 126);
+}
+.fi114{
+    background-color: rgb(139, 126, 126);
+}
+.mc115{
+    background-color: rgb(139, 126, 126);
+}
+.lv116{
+    background-color: rgb(139, 126, 126);
+}
+.ts117{
+    background-color: rgb(139, 126, 126);
+}
+.og118{
+    background-color: rgb(139, 126, 126);
+}
+.c6{
+    background-color: rgb(147, 150, 239);
+}
+.n7{
+    background-color: rgb(147, 150, 239);
+}
+.o8{
+    background-color: rgb(147, 150, 239);
+}
+.f9{
+    background-color: rgb(109, 232, 109);
+}
+.ne10{
+    background-color: rgb(113, 117, 232);
+}
+.he2{
+    background-color: rgb(96, 115, 187);
+}
+.si14{
+    background-color: yellow;
+}
+.p15{
+    background-color: rgb(147, 150, 239);
+}
+.s16{
+    background-color: rgb(147, 150, 239);
+}
+.cl17{
+    background-color: rgb(109, 232, 109);
+}
+.br35{
+    background-color: rgb(109, 232, 109);
+}
+.i53{
+    background-color: rgb(109, 232, 109);
+}
+.at85{
+    background-color: rgb(109, 232, 109);
+}
+.ar18{
+    background-color: rgb(147, 150, 239);
+}
+.kr36{
+    background-color: rgb(147, 150, 239);
+}
+.xe54{
+    background-color: rgb(147, 150, 239);
+}
+.rn86{
+    background-color: rgb(147, 150, 239);
+}
+.se34{
+    background-color: rgb(147, 150, 239);
+}
+.te52{
+    background-color: yellow;
+}
+.po84{
+    background-color:yellow;
+}
+.as33{
+    background-color: yellow;
+}
+.ge32{
+    background-color: yellow;
+}
+.sb51{
+    background-color: yellow;
+}
+.sn50{
+    background-color: red;
+}
+.pb82{
+    background-color: red;
+}
+.bi83{
+    background-color: red;
+}
+
+.secCon{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.container2 {
+    flex-direction: row-reverse;
+    display: flex;
+    justify-content: baseline;
+    gap: 20px;
+}
